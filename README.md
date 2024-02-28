@@ -39,7 +39,6 @@
 2. Back-End Development
 - Java
 - Hibernate
-- Oracle
 - JPA-Repository (for API)
 - Spring Boot
 - Spring REST
