@@ -57,4 +57,4 @@
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Garvit Juneja</b>
