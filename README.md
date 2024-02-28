@@ -48,10 +48,6 @@
 3. Database used
 - MySQL
 
-### Database Creation:
-
-//will be added later
-
 
 #### "Suggestions and project Improvements are Invited!"
 
